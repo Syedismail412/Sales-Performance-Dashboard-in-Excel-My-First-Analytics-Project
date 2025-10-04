@@ -44,7 +44,7 @@ Top-Performing channels: Identify the channels contributing most to sales.
 
 Interactive Slicers: Filter by channel, month, and category.
 
-Trends & Insights: Spot patterns and make comparisons between mon .
+Trends & Insights: Spot patterns and make comparisons between men and women.
 
 
 
