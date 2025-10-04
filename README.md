@@ -46,11 +46,6 @@ Interactive Slicers: Filter by channel, month, and category.
 
 Trends & Insights: Spot patterns and make comparisons between men and women.
 
-
-
-
-
-
 📌 Key Insights
 
  ✅ Women are more likely to buy compared to men 
@@ -61,6 +56,7 @@ Trends & Insights: Spot patterns and make comparisons between men and women.
 
  ✅  Amazon, Flipkart and Myntra channels  are maximum contributing 
 
-
-
 Slicers allow for quick and interactive exploration of trends by channel, month, and category.
+
+
+<img width="1777" height="664" alt="image" src="https://github.com/user-attachments/assets/cae7aaf0-c4de-4bd4-b3ab-271792a506ca" />
