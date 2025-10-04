@@ -46,14 +46,10 @@ Interactive Slicers: Filter by channel, month, and category.
 
 Trends & Insights: Spot patterns and make comparisons between mon .
 
-📝 How to Run
-
-Clone the repository:
-
-git clone https://github.com/Syedismail412/sales-performance-dashboard-excel.git
 
 
 📌 Key Insights
+
  ✅ Women are more likely to buy compared to men 
 
  ✅ Maharashtra, Karnataka and Uttar Pradesh are the top three states  
