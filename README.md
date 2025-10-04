@@ -48,6 +48,9 @@ Trends & Insights: Spot patterns and make comparisons between men and women.
 
 
 
+
+
+
 📌 Key Insights
 
  ✅ Women are more likely to buy compared to men 
