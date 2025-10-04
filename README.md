@@ -26,7 +26,6 @@ This project highlights my skills in **Excel formulas, Pivot Tables, data visual
 
 ---
 
-
 ## Objective
 To design a **user-friendly, interactive dashboard** that presents sales data clearly, enabling quick insights and actionable business decisions without manually analyzing large datasets.
 
